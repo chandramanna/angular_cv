@@ -1,0 +1,1076 @@
+[
+  {
+    "brand_name": "A.P.I. MOTORS PRIVATE LIMITED",
+    "brand_code": "B101",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "AJAX FIORI",
+    "brand_code": "B102",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ALFA ROMEO",
+    "brand_code": "B103",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ALLWYN PUSHPAK",
+    "brand_code": "B104",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ALWYN NISSAN",
+    "brand_code": "B105",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "AMBAJI AUTO",
+    "brand_code": "B106",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "AMW",
+    "brand_code": "B107",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "APRILIA",
+    "brand_code": "B108",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ARJUN",
+    "brand_code": "B109",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ASHOK LEYLAND",
+    "brand_code": "B110",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ASTON MARTIN",
+    "brand_code": "B111",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ATUL AUTO",
+    "brand_code": "B112",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "AUDI",
+    "brand_code": "B113",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "BAJAJ AUTO",
+    "brand_code": "B114",
+    "brand_logo": "bajaj.png",
+    "popular_brand": 1
+  },
+  {
+    "brand_name": "BAJAJ TEMPO",
+    "brand_code": "B115",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "BANSURI AUTO",
+    "brand_code": "B116",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "BEML",
+    "brand_code": "B117",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "BENELLI",
+    "brand_code": "B118",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "BENTLEY",
+    "brand_code": "B119",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "BHARAT BENZ",
+    "brand_code": "B120",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "BHURJEE",
+    "brand_code": "B121",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "BMW",
+    "brand_code": "B122",
+    "brand_logo": "bmw.png",
+    "popular_brand": 1
+  },
+  {
+    "brand_name": "BSA COMPANY",
+    "brand_code": "B123",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "CAGIVA",
+    "brand_code": "B124",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "CHEVROLET",
+    "brand_code": "B125",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "CHRYSLER",
+    "brand_code": "B126",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "CONTINENTAL ENGINES LTD",
+    "brand_code": "B127",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "DAEWOO",
+    "brand_code": "B128",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "DILAVAR AUTO",
+    "brand_code": "B129",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "DODGE",
+    "brand_code": "B130",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "DSR AUTOMOTIVES",
+    "brand_code": "B131",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "DUCATI",
+    "brand_code": "B132",
+    "brand_logo": "ducati.png",
+    "popular_brand": 1
+  },
+  {
+    "brand_name": "EICHER MOTORS",
+    "brand_code": "B133",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "EICHER TRACTORS",
+    "brand_code": "B134",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ESCORTS LTD.",
+    "brand_code": "B135",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "FAB MOTORS INDIA PVT LTD",
+    "brand_code": "B136",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "FARGO",
+    "brand_code": "B137",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "FARMER TRACTOR",
+    "brand_code": "B138",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "FERRARI",
+    "brand_code": "B139",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "FIAT",
+    "brand_code": "B140",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "FIELD MARSHAL",
+    "brand_code": "B141",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "FORCE",
+    "brand_code": "B142",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "FORCE MOTORS",
+    "brand_code": "B143",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "FORD",
+    "brand_code": "B144",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "GLOBAL",
+    "brand_code": "B145",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "GOEL TEMPO",
+    "brand_code": "B146",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "GREAT AUTOMOTIVE",
+    "brand_code": "B147",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "GREAVES LTD",
+    "brand_code": "B148",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "GUJARAT TRACTOR",
+    "brand_code": "B149",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HARLEY DAVIDSON",
+    "brand_code": "B150",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HAWAKEYE",
+    "brand_code": "B151",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HERO",
+    "brand_code": "B152",
+    "brand_logo": "hero.png",
+    "popular_brand": 1
+  },
+  {
+    "brand_name": "HERO ELECTRIC",
+    "brand_code": "B153",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HERO HONDA",
+    "brand_code": "B154",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HERO MOTOCORP",
+    "brand_code": "B155",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HINDUSTAN MOTORS",
+    "brand_code": "B156",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HINO",
+    "brand_code": "B157",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HMT TRACTORS",
+    "brand_code": "B158",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HONDA",
+    "brand_code": "B159",
+    "brand_logo": "honda.png",
+    "popular_brand": 1
+  },
+  {
+    "brand_name": "HUMBER",
+    "brand_code": "B160",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HUMMER",
+    "brand_code": "B161",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HYDRA CRANES",
+    "brand_code": "B162",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HYOSUNG",
+    "brand_code": "B163",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "HYUNDAI",
+    "brand_code": "B164",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ICML",
+    "brand_code": "B165",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "INDOFARM",
+    "brand_code": "B166",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "INTERNATIONAL",
+    "brand_code": "B167",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ISUZU",
+    "brand_code": "B168",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "JAGUAR",
+    "brand_code": "B169",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "JAWA",
+    "brand_code": "B170",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "JCBL",
+    "brand_code": "B171",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "JOGINDER SATYA",
+    "brand_code": "B172",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "JOHN DEERE",
+    "brand_code": "B173",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "KAMAZ VECTRA",
+    "brand_code": "B174",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "KAWASAKI",
+    "brand_code": "B175",
+    "brand_logo": "kawasaki.png",
+    "popular_brand": 1
+  },
+  {
+    "brand_name": "KAWASAKI BAJAJ",
+    "brand_code": "B176",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "KAYEMEL",
+    "brand_code": "B177",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "KERALA AUTO",
+    "brand_code": "B178",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "KINETIC",
+    "brand_code": "B179",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "KOMATSU",
+    "brand_code": "B180",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "KRANTI AUTO",
+    "brand_code": "B181",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "KRISHNA",
+    "brand_code": "B182",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "KTM",
+    "brand_code": "B183",
+    "brand_logo": "ktm.png",
+    "popular_brand": 1
+  },
+  {
+    "brand_name": "KUBOTA",
+    "brand_code": "B184",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "KUMAR MOTORS",
+    "brand_code": "B185",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "KURUKSHETRA AUTOMOBILES PVT. LTD.",
+    "brand_code": "B186",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "LAND ROVER",
+    "brand_code": "B187",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "LARSEN & TOUBRO",
+    "brand_code": "B188",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "LEXIA MOTORS",
+    "brand_code": "B189",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "LEXIA MOTORS LTD",
+    "brand_code": "B190",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "LML",
+    "brand_code": "B191",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "LOHIA AUTO",
+    "brand_code": "B192",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "LOTIA MOTORS",
+    "brand_code": "B193",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MAHA SHIVA AUTOMOBILES",
+    "brand_code": "B194",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MAHINDRA",
+    "brand_code": "B195",
+    "brand_logo": "mahindra.png",
+    "popular_brand": 1
+  },
+  {
+    "brand_name": "MAHINDRA AND MAHINDRA",
+    "brand_code": "B196",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MAHINDRA GUJARAT",
+    "brand_code": "B197",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MAHINDRA INTL",
+    "brand_code": "B198",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MAHINDRA RENAULT",
+    "brand_code": "B199",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MAHINDRA REVA",
+    "brand_code": "B200",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MAHINDRA TRACTOR",
+    "brand_code": "B201",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MAHINDRA.",
+    "brand_code": "B202",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MAHINDRANAVISTAR",
+    "brand_code": "B203",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MAJESTIC AUTO",
+    "brand_code": "B204",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MAN TRUCKS",
+    "brand_code": "B205",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MAN-FORCE",
+    "brand_code": "B206",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MARUTI",
+    "brand_code": "B207",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MASSEY FERGUSON",
+    "brand_code": "B208",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MERCEDES",
+    "brand_code": "B209",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MERCEDES BENZ",
+    "brand_code": "B210",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MITSUBISHI",
+    "brand_code": "B211",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "MONTO",
+    "brand_code": "B212",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "NANDI AUTO",
+    "brand_code": "B213",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "NEW HOLLAND",
+    "brand_code": "B214",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "NISSAN",
+    "brand_code": "B215",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "OPEL",
+    "brand_code": "B216",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "PANCHNATH AUTO",
+    "brand_code": "B217",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "PANTHER TRACTOR",
+    "brand_code": "B218",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "PASHUPATI VEHICLES PVT LTD",
+    "brand_code": "B219",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "PEUGEOT",
+    "brand_code": "B220",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "PIAGGIO",
+    "brand_code": "B221",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "PIAGGIO GREAVES",
+    "brand_code": "B222",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "POLO",
+    "brand_code": "B223",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "PORSCHE",
+    "brand_code": "B224",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "PREET AGRO IND.",
+    "brand_code": "B225",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "PREET TRACTORS",
+    "brand_code": "B226",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "PREMIER",
+    "brand_code": "B227",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "PUNJAB TRACTORS LTD",
+    "brand_code": "B228",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "RAHUL AUTO",
+    "brand_code": "B229",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "RAJ AUTO",
+    "brand_code": "B230",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "RASANDIK MOTORS",
+    "brand_code": "B231",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "RENAULT",
+    "brand_code": "B232",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "REVA",
+    "brand_code": "B233",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ROLLS ROYCE",
+    "brand_code": "B234",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ROVER",
+    "brand_code": "B235",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "ROYAL ENFIELD",
+    "brand_code": "B236",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SAKSHAM",
+    "brand_code": "B237",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SAME DEUTZ FAHR",
+    "brand_code": "B238",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SAS MOTORS",
+    "brand_code": "B239",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SCANIA",
+    "brand_code": "B240",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SCOOTERS INDIA",
+    "brand_code": "B241",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SHAKTIMAN",
+    "brand_code": "B242",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SHANTHI AUTO",
+    "brand_code": "B243",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SHREE RAM DIESEL",
+    "brand_code": "B244",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SHREE SHYAM",
+    "brand_code": "B245",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SHREEJI ENGINEERING WORKS",
+    "brand_code": "B246",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SHRI RAJSHAKTI",
+    "brand_code": "B247",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SHRI RAM",
+    "brand_code": "B248",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SITARA AUTO",
+    "brand_code": "B249",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SKODA",
+    "brand_code": "B250",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SOORAJ AUTO",
+    "brand_code": "B251",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "STANDARD COMBINE",
+    "brand_code": "B252",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SUZUKI",
+    "brand_code": "B253",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SWARAJ",
+    "brand_code": "B254",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "SWARAJ MAZDA",
+    "brand_code": "B255",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "TAFE TRACTORS",
+    "brand_code": "B256",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "TATA MOTORS",
+    "brand_code": "B257",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "TATA MOTORS LTD",
+    "brand_code": "B258",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "TATRA",
+    "brand_code": "B259",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "TEJA AUTO",
+    "brand_code": "B260",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "TOYOTA",
+    "brand_code": "B261",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "TOYOTA KIRLOSKAR",
+    "brand_code": "B262",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "TRIUMPH",
+    "brand_code": "B263",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "TVS",
+    "brand_code": "B264",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "URAL INDIA LTD",
+    "brand_code": "B265",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "VAIBHAV AUTO",
+    "brand_code": "B266",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "VAIBHAV TRACTORS",
+    "brand_code": "B267",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "VE COMMERCIAL VEHICLES LTD",
+    "brand_code": "B268",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "VEER PARTAP",
+    "brand_code": "B269",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "VIBGYOR",
+    "brand_code": "B270",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "VIRGO",
+    "brand_code": "B271",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "VISHWAKARMA ENGINEERING WORKS",
+    "brand_code": "B272",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "VOLKSWAGEN",
+    "brand_code": "B273",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "VOLVO",
+    "brand_code": "B274",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "VST TILLERS",
+    "brand_code": "B275",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "WATERBUS INTERNATIONAL LTD",
+    "brand_code": "B276",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "WILLEYS",
+    "brand_code": "B277",
+    "brand_logo": "",
+    "popular_brand": 0
+  },
+  {
+    "brand_name": "YAMAHA",
+    "brand_code": "B278",
+    "brand_logo": "yamaha.png",
+    "popular_brand": 1
+  },
+  {
+    "brand_name": "YEZDI",
+    "brand_code": "B279",
+    "brand_logo": "",
+    "popular_brand": 0
+  }
+ ]

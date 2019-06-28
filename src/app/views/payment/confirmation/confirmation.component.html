@@ -1,0 +1,74 @@
+<!-- <h1>work!</h1>
+<a href="http://rzonews.reliancegeneral.co.in:91/API/Service/GeneratePolicyschedule?PolicyNo={{policyNo}}&ProductCode={{productCode}}">Download Policy Copy</a> -->
+<div class="container-fluid" style="background:#055ba9;">
+        <div class="d-flex flex-column flex-md-row align-items-center px-md-4 container" style="margin:auto !important;" >
+        <div class="col-md-4"  style="margin:15px auto !important; text-align: center;">
+          <h5 class="my-0 mr-md-auto font-weight-normal"><a href="#home">
+            <a [routerLink]="['/']"><img src="assets/quote/images/logo.png" class="img-fluid nav-brand" /></a>
+          </a>
+        
+          </h5>
+          <nav class="my-2 my-md-0 mr-md-3" style="color:#fff!important;">
+            <a class="p-2 ">Email Us: info@gibl.in</a>
+            <a class="p-2 ">Call us: 033 - 66074257</a>
+            
+          </nav>
+        </div>
+        </div>
+        <div class="row">
+                <div class="col-md-4 order-md-2 mb-4" style="margin:auto;">
+                       <small class="thanks" *ngIf="orderStatus=='1'">Thanks For Your Payment!</small>
+                       <small class="thanks" *ngIf="orderStatus!='1'">Sorry! your transaction process is failed. {{transactionMsg}}</small>
+                        <h4 class="d-flex justify-content-between align-items-center mt-3">
+                               
+                          <span class="badge badge-secondary badge-pill  col-md-12"> 
+                                <a href=""> <i class="fa fa-arrow-circle-o-left pull-left"></i></a>
+								Your Payment Detail 
+                                 <a *ngIf="orderStatus=='1'" href="http://rzonews.reliancegeneral.co.in:91/API/Service/GeneratePolicyschedule?PolicyNo={{policyNo}}&ProductCode={{productCode}}"> <i class="fa fa-download pull-right"></i></a></span>
+                          
+                        </h4>
+                       
+                        <ul class="list-group mb-3">
+							<li class="list-group-item d-flex justify-content-between lh-condensed">
+                            <div>
+                              <h6 class="my-0">Order No</h6>
+                              <small class="text-muted">Brief description</small>
+                            </div>
+                            <span class="text-muted">{{proposalNo}}</span>
+							</li>
+							<li class="list-group-item d-flex justify-content-between lh-condensed" *ngIf="orderStatus=='1'">
+                            <div>
+                              <h6 class="my-0">Policy No</h6>
+                              <small class="text-muted">Brief description</small>
+                            </div>
+                            <span class="text-muted">{{policyNo}}</span>
+							</li>
+                          
+							<li class="list-group-item d-flex justify-content-between lh-condensed" *ngIf="orderStatus=='1'">
+								<div>
+								  <h6 class="my-0">Reference No</h6>
+								  <small class="text-muted">Brief description</small>
+								</div>
+								<span class="text-muted">{{transactionNo}}</span>
+							</li>
+							<li class="list-group-item d-flex justify-content-between lh-condensed">
+							<div>
+							  <h6 class="my-0">Payment Method</h6>
+							  <small class="text-muted">Brief description</small>
+							</div>
+							<span class="text-muted">{{paymentMethod}}</span>
+							</li>
+                          <li class="list-group-item d-flex justify-content-between bg-light">
+                            <div class="text-success">
+                              <h6 class="my-0">Transaction Amount</h6>
+                            </div>
+                            <span class="text-success" *ngIf="showPremiumdata">{{premiumJson.TOTAL_PREMIUM | currency:'Rs.' : 'symbol' : '1.0'}}</span>
+                          </li>
+                          
+                        </ul>
+                  
+                       
+                      </div>
+        </div>
+        </div>
+        
